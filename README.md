@@ -21,6 +21,9 @@ git pull origin master
 ```
 git pull origin master
 ```
+```
+in .gitignore add _site, it will be versioned in the other branch
+```
 Σε αυτό το σημείο κάνουμε τις αλλαγές που θέλουμε στο master branch.
 ```
 bundle install
