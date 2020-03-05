@@ -363,3 +363,10 @@ wegner-en:
  uri: ""
  bio: "Honorary Doctor"
  avatar: "/assets/images/wegner.jpg"
+
+hristope:
+  name: "Ελένη Χριστοπούλου"
+  email: "hristope@ionio.gr"
+  uri: ""
+  bio: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.)"
+  avatar: "/assets/images/nophoto.jpg"
